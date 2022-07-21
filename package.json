@@ -1,0 +1,10 @@
+{
+  "name": "deploy and verify contract using hardhat",
+  "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.1"
+  }
+}
